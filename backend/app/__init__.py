@@ -1,0 +1,1 @@
+"""BuyWise backend application package."""

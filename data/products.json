@@ -1,0 +1,254 @@
+[
+  {
+    "id": "prod-001",
+    "name": "AeroPulse Stealth 7 Pro",
+    "brand": "SonicWave",
+    "category": "Wireless / Gaming Headphones",
+    "price": 7999,
+    "rating": 4.7,
+    "gaming_score": 9.6,
+    "call_quality_score": 8.2,
+    "battery_score": 7.5,
+    "merchant": "Apex Tech Retail",
+    "merchant_trust_score": 9.3,
+    "delivery_days": 2,
+    "warranty_months": 24,
+    "features": [
+      "2.4GHz ultra-low latency wireless dongle",
+      "7.1 Spatial surround sound",
+      "Detachable broadcast-grade boom mic",
+      "Memory foam cooling-gel earcups"
+    ]
+  },
+  {
+    "id": "prod-002",
+    "name": "Vocalis Clarity Air",
+    "brand": "AuraSound",
+    "category": "Wireless / Gaming Headphones",
+    "price": 5499,
+    "rating": 4.5,
+    "gaming_score": 6.2,
+    "call_quality_score": 9.7,
+    "battery_score": 8.8,
+    "merchant": "CloudBazaar Direct",
+    "merchant_trust_score": 8.9,
+    "delivery_days": 3,
+    "warranty_months": 12,
+    "features": [
+      "Quad-mic AI beamforming ENC",
+      "Multipoint Bluetooth 5.3 pairing",
+      "50-hour playtime",
+      "Hybrid active noise cancellation"
+    ]
+  },
+  {
+    "id": "prod-003",
+    "name": "TitanSound Endurance Max",
+    "brand": "VoltAudio",
+    "category": "Wireless / Gaming Headphones",
+    "price": 3499,
+    "rating": 4.3,
+    "gaming_score": 7.0,
+    "call_quality_score": 7.2,
+    "battery_score": 9.8,
+    "merchant": "GadgetHub Express",
+    "merchant_trust_score": 8.4,
+    "delivery_days": 1,
+    "warranty_months": 12,
+    "features": [
+      "100-hour ultra battery life",
+      "Fast charge (10 mins = 8 hours playback)",
+      "Dual bass boost equalizer modes",
+      "Foldable ergonomic design"
+    ]
+  },
+  {
+    "id": "prod-004",
+    "name": "NovaPlay Spark X",
+    "brand": "PixelGear",
+    "category": "Wireless / Gaming Headphones",
+    "price": 1899,
+    "rating": 3.9,
+    "gaming_score": 7.8,
+    "call_quality_score": 6.0,
+    "battery_score": 6.5,
+    "merchant": "QuickMart Logistics",
+    "merchant_trust_score": 7.6,
+    "delivery_days": 5,
+    "warranty_months": 6,
+    "features": [
+      "RGB breathing lights",
+      "60ms low-latency game mode",
+      "40mm dynamic acoustic drivers",
+      "Braided aux cable included"
+    ]
+  },
+  {
+    "id": "prod-005",
+    "name": "ChronoFit Apex Ultra",
+    "brand": "OmniTime",
+    "category": "Smartwatches",
+    "price": 14999,
+    "rating": 4.8,
+    "gaming_score": 4.0,
+    "call_quality_score": 9.4,
+    "battery_score": 7.0,
+    "merchant": "Apex Tech Retail",
+    "merchant_trust_score": 9.5,
+    "delivery_days": 2,
+    "warranty_months": 24,
+    "features": [
+      "1.96-inch sapphire AMOLED display",
+      "Dual-band GPS and offline route navigation",
+      "Aerospace titanium alloy case",
+      "ECG and continuous SpO2 tracking"
+    ]
+  },
+  {
+    "id": "prod-006",
+    "name": "PulseTracker Horizon 3",
+    "brand": "ZenithWear",
+    "category": "Smartwatches",
+    "price": 4999,
+    "rating": 4.4,
+    "gaming_score": 3.5,
+    "call_quality_score": 8.5,
+    "battery_score": 8.9,
+    "merchant": "PrimeShip India",
+    "merchant_trust_score": 9.1,
+    "delivery_days": 3,
+    "warranty_months": 12,
+    "features": [
+      "14-day standard battery life",
+      "HD Bluetooth calling with noise reduction",
+      "120+ dedicated sports tracking modes",
+      "IP68 dust and water resistance"
+    ]
+  },
+  {
+    "id": "prod-007",
+    "name": "VigorWatch Stamina Pro",
+    "brand": "VoltAudio",
+    "category": "Smartwatches",
+    "price": 3299,
+    "rating": 4.2,
+    "gaming_score": 3.0,
+    "call_quality_score": 6.8,
+    "battery_score": 9.9,
+    "merchant": "GadgetHub Express",
+    "merchant_trust_score": 8.2,
+    "delivery_days": 1,
+    "warranty_months": 12,
+    "features": [
+      "25-day ultra battery mode",
+      "Continuous heart rate & sleep monitoring",
+      "Sunlight-readable display",
+      "5ATM swim-proof rating"
+    ]
+  },
+  {
+    "id": "prod-008",
+    "name": "LiteBand Active Go",
+    "brand": "Kinetix",
+    "category": "Smartwatches",
+    "price": 1599,
+    "rating": 3.8,
+    "gaming_score": 2.0,
+    "call_quality_score": 5.5,
+    "battery_score": 8.0,
+    "merchant": "QuickMart Logistics",
+    "merchant_trust_score": 7.4,
+    "delivery_days": 4,
+    "warranty_months": 6,
+    "features": [
+      "1.4-inch vibrant color display",
+      "Daily activity & sleep tracker",
+      "App and SMS smart notifications",
+      "Ultra-lightweight 28g body"
+    ]
+  },
+  {
+    "id": "prod-009",
+    "name": "CyberStrike RapidPro 87",
+    "brand": "PixelGear",
+    "category": "Keyboards",
+    "price": 8499,
+    "rating": 4.9,
+    "gaming_score": 9.9,
+    "call_quality_score": 3.0,
+    "battery_score": 7.2,
+    "merchant": "EliteGear Depot",
+    "merchant_trust_score": 9.6,
+    "delivery_days": 2,
+    "warranty_months": 24,
+    "features": [
+      "Hall Effect magnetic rapid trigger switches",
+      "8000Hz hyper-polling rate",
+      "Adjustable actuation from 0.1mm to 4.0mm",
+      "Gasket mounted with sound-dampening foam"
+    ]
+  },
+  {
+    "id": "prod-010",
+    "name": "AeroKeys SilentType Master",
+    "brand": "ErgoDesk",
+    "category": "Keyboards",
+    "price": 5999,
+    "rating": 4.6,
+    "gaming_score": 6.8,
+    "call_quality_score": 8.5,
+    "battery_score": 9.5,
+    "merchant": "OfficeCraft Solutions",
+    "merchant_trust_score": 9.0,
+    "delivery_days": 3,
+    "warranty_months": 18,
+    "features": [
+      "Whisper-quiet low-profile scissor switches",
+      "Tri-device seamless Bluetooth switching",
+      "Smart proximity backlighting",
+      "Ergonomic contoured palm rest"
+    ]
+  },
+  {
+    "id": "prod-011",
+    "name": "VoltKey MechStrike TKL",
+    "brand": "VoltAudio",
+    "category": "Keyboards",
+    "price": 2999,
+    "rating": 4.3,
+    "gaming_score": 8.6,
+    "call_quality_score": 4.0,
+    "battery_score": 5.0,
+    "merchant": "GadgetHub Express",
+    "merchant_trust_score": 8.5,
+    "delivery_days": 1,
+    "warranty_months": 12,
+    "features": [
+      "Hot-swappable linear mechanical switches",
+      "Full N-Key rollover anti-ghosting",
+      "Per-key RGB backlighting with 18 presets",
+      "Detachable braided Type-C cable"
+    ]
+  },
+  {
+    "id": "prod-012",
+    "name": "OfficeLite SlimKey 104",
+    "brand": "InnoTech",
+    "category": "Keyboards",
+    "price": 899,
+    "rating": 4.0,
+    "gaming_score": 4.2,
+    "call_quality_score": 6.5,
+    "battery_score": 9.0,
+    "merchant": "QuickMart Logistics",
+    "merchant_trust_score": 7.5,
+    "delivery_days": 4,
+    "warranty_months": 6,
+    "features": [
+      "Full-size 104-key spill-resistant layout",
+      "2.4GHz plug-and-play USB receiver",
+      "12 dedicated multimedia hotkeys",
+      "12-month extended battery life"
+    ]
+  }
+]
