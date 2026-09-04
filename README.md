@@ -422,7 +422,7 @@ https://github.com/samm24z/buywise-agentic-commerce
 
 👨‍💻 Author
 
-Shaik Samad
+Shaik Abdul Samad
 
 Built for the Razorpay AI Buildathon.
 
